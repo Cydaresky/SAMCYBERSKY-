@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Day Before Day One</title>
+    <style>
+        body {
+            background-color: #001a00; /* Dark greenish background */
+            color: gold; /* Goldish font color */
+            font-family: 'Courier New', Courier, monospace; /* Cyber effect font */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            font-size: 3em;
+            text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00; /* Greenish glow effect */
+        }
+    </style>
+</head>
+<body>
+    <h1>The Day Before Day One</h1>
+</body>
+</html>
